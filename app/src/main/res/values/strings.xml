@@ -4,7 +4,7 @@
     <string name="title_more">More</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="openweather_api">f44b2fb436ee3b2ed44c6c38d9346bef</string>
+    <string name="openweather_api"></string>
     <string name="openweather_url"></string>
     <string name="search_place">Search Place</string>
     <string name="save">Save</string>

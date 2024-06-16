@@ -30,7 +30,7 @@ class SharedViewModel : ViewModel(){
     private lateinit var fusedLocationProviderClient: FusedLocationProviderClient
     private val priority = LocationRequest.PRIORITY_BALANCED_POWER_ACCURACY
     private val cancellationTokenSource = CancellationTokenSource()
-    private var appId: String = "f44b2fb436ee3b2ed44c6c38d9346bef"
+    private var appId: String = ""
     private var url: String = "https://api.openweathermap.org/data/2.5/"
 
     fun getCurrentCoordinates(activity: FragmentActivity?): Deferred<Task<Location>> {
