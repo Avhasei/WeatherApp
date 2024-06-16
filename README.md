@@ -5,3 +5,4 @@ implementation("com.google.android.gms:play-services-location:21.3.0") : The lib
 implementation("com.google.android.libraries.places:places:3.5.0") : The library is used to get the list of places when searching for them on the AutocompleteSupportFragment fragment
 
 I have excluded my API key for google places.
+I have just also excluded my API key for openweathermap.
